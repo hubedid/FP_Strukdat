@@ -9,7 +9,7 @@
 * Putri Dwi Agnesya         (21081010142)
 * Mohamad Fasafa Hubaidilah (21081010146)
 
-### Prerequisites
+## Prerequisites
 Untuk Menjalakan Program Ini dibutuhkan gcc Compiler
 
 * Untuk Windows<br />
