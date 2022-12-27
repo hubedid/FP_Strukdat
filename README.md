@@ -2,11 +2,11 @@
 
 ## Anggota Kelompok :
 
-Afifa Salsabila           (21081010130)<br>
-Muhammad Utbah Husnuth T.	(21081010131)<br>
-Ananda Rheza Kurniawan    (21081010141)<br>
-Putri Dwi Agnesya         (21081010142)<br>
-Mohamad Fasafa Hubaidilah (21081010146)<br>
+* Afifa Salsabila           (21081010130)
+* Muhammad Utbah Husnuth T.	(21081010131)
+* Ananda Rheza Kurniawan    (21081010141)
+* Putri Dwi Agnesya         (21081010142)
+* Mohamad Fasafa Hubaidilah (21081010146)
 
 ### Prerequisites
 Untuk Menjalakan Program Ini dibutuhkan gcc Compiler
