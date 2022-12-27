@@ -12,6 +12,7 @@ Mohamad Fasafa Hubaidilah (21081010146)<br>
 Untuk Menjalakan Program Ini dibutuhkan gcc Compiler
 
 * Untuk Windows<br />
+<br />
   Compiler Only
   ```sh
   Download dan Install MinGw https://www.mingw-w64.org/
