@@ -1,7 +1,7 @@
 ﻿# FP_Strukdat
- # Sistem Perpustakaan Peminjaman dan Pengembalian Buku
+ ## Sistem Perpustakaan Peminjaman dan Pengembalian Buku
 
-## Anggota Kelompok :
+### Anggota Kelompok :
 
 * Afifa Salsabila           (21081010130)
 * Muhammad Utbah Husnuth T.	(21081010131)
