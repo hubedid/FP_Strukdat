@@ -33,11 +33,15 @@ Untuk Menjalakan Program Ini dibutuhkan gcc Compiler
 ## Usage
 
 Contoh Penggunaan / Run Program
-* Compile
+1. Clone Repo
+  ```sh
+  https://github.com/hubedid/FP_Strukdat.git
+  ```
+2. Compile
   ```sh
   gcc fp_strukdat.c -o fp_strukdat
   ```
-* Run
+3. Run
   ```sh
   .\fp_strukdat
   ```
