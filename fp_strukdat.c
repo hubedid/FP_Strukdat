@@ -83,9 +83,9 @@ int main()
   tail_buku = NULL;
   // deklarasi list buku awal
   buku list_buku[3] = { 
-    { "hoaks", "HK02J" }, 
-    { "hoaks", "HK03J" }, 
-    { "hoaks", "HK04J" } 
+    { "Integrasi & Diferensiasi", "HK02J" }, 
+    { "Linked List", "HK03J" }, 
+    { "Dasar Algoritma & Struktur Data", "HK04J" } 
   };
   
   //loop the app menu with do-while
