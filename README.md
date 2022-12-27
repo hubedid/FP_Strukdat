@@ -36,7 +36,7 @@ Untuk Menjalakan Program Ini dibutuhkan gcc Compiler
 Contoh Penggunaan / Run Program
 1. Clone Repo
   ```sh
-  https://github.com/hubedid/FP_Strukdat.git
+  git clone https://github.com/hubedid/FP_Strukdat.git
   ```
 2. Compile
   ```sh
