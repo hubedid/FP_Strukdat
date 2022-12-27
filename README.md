@@ -11,15 +11,15 @@ Mohamad Fasafa Hubaidilah	(21081010146)
 ### Prerequisites
 Untuk Menjalakan Program Ini dibutuhkan gcc Compiler
 
-* Untuk Windows
+* Untuk Windows<br />
   Compiler Only
   ```sh
-  Download dan Install MinGw [https://www.mingw-w64.org/] (https://www.mingw-w64.org/)
+  Download dan Install MinGw https://www.mingw-w64.org/
   ```
   atau 
   Editor Include Compiler
   ```sh
-  Download dan Install DevC++  [https://sourceforge.net/projects/orwelldevcpp/] (https://sourceforge.net/projects/orwelldevcpp/)
+  Download dan Install DevC++  https://sourceforge.net/projects/orwelldevcpp/
   ```
 * Untuk Linux
   ```sh
